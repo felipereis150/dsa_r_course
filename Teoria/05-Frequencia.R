@@ -30,6 +30,3 @@ View(freq)
 # Tabela de frequências relativas
 freq_rel <- prop.table(freq)
 View(freq_rel)
-
-# Porcentagem 
-
